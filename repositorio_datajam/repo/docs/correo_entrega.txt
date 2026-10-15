@@ -1,0 +1,21 @@
+Para: comunigab@alcaldiabogota.gov.co
+Asunto: DataJam – Entrega final – [NOMBRE DEL EQUIPO]
+
+Buenas tardes,
+
+Adjuntamos la entrega final del equipo [NOMBRE DEL EQUIPO] para el Bogotá DataJam 2026.
+
+Repositorio técnico: [URL DEL REPOSITORIO]
+(contiene notebook reproducible, visualización, archivos de soporte y README.md con instrucciones de ejecución)
+
+Visualización / dashboard: [URL o "incluida en /outputs del repositorio"]
+
+Adjuntos:
+- Nota técnica sobre integración de datos públicos (PDF)
+- FORMULARIO_CARACTERIZACIÓN_FORMULACIÓN_PROBLEMAS diligenciado
+
+Integrantes: [NOMBRES]
+Contacto: [CORREO / TELÉFONO]
+
+Cordialmente,
+[NOMBRE]
