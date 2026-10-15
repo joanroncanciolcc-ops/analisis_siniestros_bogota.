@@ -1,9 +1,9 @@
 Para: comunigab@alcaldiabogota.gov.co
-Asunto: DataJam – Entrega final – [NOMBRE DEL EQUIPO]
+Asunto: DataJam – Entrega final – DATAPRIME
 
 Buenas tardes,
 
-Adjuntamos la entrega final del equipo [NOMBRE DEL EQUIPO] para el Bogotá DataJam 2026.
+Adjuntamos la entrega final del equipo DATAPRIME para el Bogotá DataJam 2026.
 
 Repositorio técnico: [URL DEL REPOSITORIO]
 (contiene notebook reproducible, visualización, archivos de soporte y README.md con instrucciones de ejecución)
