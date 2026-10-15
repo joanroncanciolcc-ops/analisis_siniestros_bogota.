@@ -1,18 +1,17 @@
 # [COMPLETAR: título del proyecto] · Bogotá DataJam 2026 (Datos y Usabilidad)
 
-**Equipo:** [COMPLETAR]
-
+**Equipo:** DATAPRIME
 ## 1. Problema público abordado
 [COMPLETAR: copiar el problema y la hipótesis/pregunta del formulario de caracterización, tal cual, para mantener la trazabilidad.]
 
-- **Pregunta:** [COMPLETAR]
-- **Hipótesis:** [COMPLETAR]
+- **Pregunta:** ¿Qué patrones espaciales y temporales presentan los siniestros viales en Bogotá y cómo pueden contribuir a identificar zonas prioritarias para la prevención y gestión del riesgo vial?
+- **Hipótesis:** Los siniestros viales presentan una mayor concentración en determinadas localidades y corredores de la ciudad, lo que evidencia diferencias territoriales que pueden ser identificadas mediante el análisis de datos abiertos.
 
 ## 2. Fuentes de datos
 | Fuente | Entidad | Registros | Uso en el análisis |
 |---|---|---|---|
 | Histórico de siniestros viales Bogotá D.C. | Secretaría Distrital de Movilidad - SDM | 199.146 (2015-01-01 a 2021-09-10) | Eventos, gravedad, clase, ubicación, fecha y hora |
-| Incidente atendido por Bomberos. Bogotá D.C. | Unidad Administrativa Especial Cuerpo Oficial de Bomberos - UAECOB | [COMPLETAR] | [COMPLETAR: cómo se integra, p. ej. cruce por localidad] |
+| Incidente atendido por Bomberos. Bogotá D.C. | Unidad Administrativa Especial Cuerpo Oficial de Bomberos - UAECOB | 20.229 registros (corte al 31 de agosto de 2020)|Integración mediante localidad y fecha para complementar el análisis de siniestros viales con los incidentes atendidos por Bomberos.|
 
 Detalles de descarga en [`data/README.md`](data/README.md).
 
