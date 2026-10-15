@@ -18,9 +18,9 @@ Detalles de descarga en [`data/README.md`](data/README.md).
 ## 3. Metodología general
 1. **Limpieza:** lectura con `utf-8-sig`, eliminación de columnas redundantes (`X`, `Y`), tratamiento de nulos (`LOCALIDAD`, `CIV`, `PK_CALZADA`), exclusión de `CIV = 0` (valor de relleno).
 2. **Transformación:** variables de año, mes, hora, día de la semana, indicadores de gravedad.
-3. **Integración de fuentes:** [COMPLETAR: llave de cruce y resultado, p. ej. tasas por 100.000 habitantes por localidad].
+3. **Integración de fuentes:** Integración mediante las variables de localidad y fecha. Se utilizaron los datos de siniestros viales y los incidentes atendidos por Bomberos para comparar la distribución territorial y temporal de los eventos, identificando zonas con mayor concentración de incidentes y emergencias..
 4. **Análisis:** evolución temporal, gravedad y tipo, localidades, franjas horarias, puntos críticos, mapas de calor.
-5. **Visualización:** [COMPLETAR: dashboard o mapa].
+5. **Visualización:** Dashboard interactivo desarrollado en Power BI con análisis temporal, geográfico y descriptivo de los siniestros viales en Bogotá..
 
 ## 4. Cómo ejecutar el código
 ```bash
