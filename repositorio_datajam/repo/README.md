@@ -11,8 +11,8 @@
 ## 2. Fuentes de datos
 | Fuente | Entidad | Registros | Uso en el análisis |
 |---|---|---|---|
-| Histórico de siniestros viales Bogotá D.C. | [COMPLETAR] | 199.146 (2015-01-01 a 2021-09-10) | Eventos, gravedad, clase, ubicación, fecha y hora |
-| [COMPLETAR: fuente 2] | [COMPLETAR] | [COMPLETAR] | [COMPLETAR: cómo se integra, p. ej. cruce por localidad] |
+| Histórico de siniestros viales Bogotá D.C. | Secretaría Distrital de Movilidad - SDM | 199.146 (2015-01-01 a 2021-09-10) | Eventos, gravedad, clase, ubicación, fecha y hora |
+| Incidente atendido por Bomberos. Bogotá D.C. | Unidad Administrativa Especial Cuerpo Oficial de Bomberos - UAECOB | [COMPLETAR] | [COMPLETAR: cómo se integra, p. ej. cruce por localidad] |
 
 Detalles de descarga en [`data/README.md`](data/README.md).
 
