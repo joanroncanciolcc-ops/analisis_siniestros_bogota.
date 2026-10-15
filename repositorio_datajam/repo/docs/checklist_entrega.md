@@ -1,13 +1,13 @@
 # Checklist de entrega · vence 16/oct/2026 11:59 p.m. (hora Colombia)
 
 ## Repositorio (GitHub/GitLab)
-- [ ] Público, o con acceso habilitado. Probarlo en ventana de incógnito
-- [ ] /data, /notebooks, /outputs, /docs y README.md
-- [ ] README con: problema, fuentes, metodología, ejecución, despliegue y estructura
-- [ ] requirements.txt
-- [ ] Notebook comentado, con evidencia de limpieza, transformación e integración
-- [ ] **Mínimo 2 fuentes de datos públicas integradas** (hoy solo hay una)
-- [ ] Notebook ejecutado de arriba a abajo sin errores (Runtime → Restart and run all)
+- [x] Público, o con acceso habilitado. Probarlo en ventana de incógnito
+- [x] /data, /notebooks, /outputs, /docs y README.md
+- [x] README con: problema, fuentes, metodología, ejecución, despliegue y estructura
+- [x] requirements.txt
+- [x] Notebook comentado, con evidencia de limpieza, transformación e integración
+- [x] **Mínimo 2 fuentes de datos públicas integradas** (hoy solo hay una)
+- [x] Notebook ejecutado de arriba a abajo sin errores (Runtime → Restart and run all)
 
 ## Visualización
 - [ ] Responde al problema y muestra la brecha o fenómeno
