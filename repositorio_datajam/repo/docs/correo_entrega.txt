@@ -5,10 +5,10 @@ Buenas tardes,
 
 Adjuntamos la entrega final del equipo DATAPRIME para el Bogotá DataJam 2026.
 
-Repositorio técnico: [URL DEL REPOSITORIO]
+Repositorio técnico: https://github.com/joanroncanciolcc-ops/analisis_siniestros_bogota..git
 (contiene notebook reproducible, visualización, archivos de soporte y README.md con instrucciones de ejecución)
 
-Visualización / dashboard: [URL o "incluida en /outputs del repositorio"]
+Visualización / dashboard: incluida en /outputs 
 
 Adjuntos:
 - Nota técnica sobre integración de datos públicos (PDF)
