@@ -14,8 +14,11 @@ Adjuntos:
 - Nota técnica sobre integración de datos públicos (PDF)
 - FORMULARIO_CARACTERIZACIÓN_FORMULACIÓN_PROBLEMAS diligenciado
 
-Integrantes: [NOMBRES]
-Contacto: [CORREO / TELÉFONO]
+Integrantes: Joan Nicolas Roncancio Bolivar - Estudiante
+             Jorge Esteban Aponte Bernal - Estudiante
+             Daniel Esteban Diaz Medina - Estudiante
+
+Contacto: jnroncancio@ucompensar.edu.co
 
 Cordialmente,
-[NOMBRE]
+Joan
